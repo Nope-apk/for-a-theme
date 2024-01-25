@@ -30,6 +30,7 @@
     --rs-invisible-color: #747f8d;
     --rs-phone-visible: block;
     --rs-phone-color: var(--rs-online-color);
+    
 }
 
 #app-mount .applicationStore_fc7d76,
@@ -524,7 +525,7 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    -webkit-mask-box-image: url("https://i.imgur.com/6gPQfIO.png");
+    -webkit-mask-box-image: url("--home-button-image");
 }
 
 
