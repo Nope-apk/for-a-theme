@@ -12,6 +12,7 @@
 
 @import url("https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.theme.css");
 @import url("https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/SettingsModal/SettingsModal.theme.css");
+@import url("https://raw.githubusercontent.com/Nope-apk/for-a-theme/main/mat-discord.css");
 
 :root {
 	--backgroundColor01: #1e2731;
