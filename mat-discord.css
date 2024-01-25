@@ -515,13 +515,15 @@
 
 #app-mount .presets_c3a603 > .appIconSelectionContainer_aa83b2:first-child > .appIconSelection__3c38d,
 #app-mount .tutorialContainer__890ea .childWrapper__01b9c:has(svg)::after {
+    background: var(--gradient);
+    background-color: transparent;
     position: absolute;
     content: "";
     width: 36px;
     height: 36px;
     top: 6px;
     left: 6px;
-    background-image: var(--home-button-image, url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg"));
+    background: var(--home-button-image, url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg"));
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
